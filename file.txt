@@ -6,4 +6,4 @@ Texto agregado luego del commit
 Realizando modificaciones con el branch rama1
 
 
-Texto agregado por github en archivo txt
+Texto agregado por github en "MODIFICADO FILE EN GIT HUB"  txt
